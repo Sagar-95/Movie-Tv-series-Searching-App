@@ -3,7 +3,8 @@ Movie and TV Series Searching App
 
 Discover your next favorite movie or TV series with our Movie and TV Series Searching App! This user-friendly application provides a seamless experience for searching and exploring entertainment content. Here are some key features:
 
-Features
+Features :
+
 Search and Sort: Effortlessly find movies and TV series . Additionally, sort your results by release days or weeks for easy browsing.
 
 Trailer Viewing: Dive deeper into your selected movie or TV series by watching its trailer directly within the app. Click on the play button to preview the excitement before you decide to watch.
